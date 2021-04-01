@@ -54,6 +54,18 @@ h3{
     text-align: center;
     padding-top: 35px; 
 }
+h4{
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    text-align: center;
+    font-family:'Lora', serif;
+    font-size: 18px;
+    font-weight: 700;
+    padding-top: 730px;  
+}
 .date{
     font-family:'Lora', serif;
     font-size: 10px;
@@ -96,7 +108,7 @@ img.img{
     font-size: 16px;
     padding-left: 5%;
     padding-right: 52%;
-    padding-top: 730px;
+    padding-top: 790px;
 } 
 .texte2{
     position: absolute;
@@ -106,8 +118,11 @@ img.img{
     font-size: 16px;
     padding-left: 52%;
     padding-right: 5%;
-    padding-top: 730px;
+    padding-top: 790px;
 } 
+.gras{
+    font-weight: 700;
+}
 .texte3{
     position: absolute;
     text-align: justify;
